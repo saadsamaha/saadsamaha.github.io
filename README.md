@@ -1,4 +1,4 @@
 
 # saadsamaha.github.io
 
-<a target="_blank" href="http://saadsamaha.gitgub.io">http://saadsamaha.github.io/git</a>
+<a target="_blank" href="https://saadsamaha.github.io">https://saadsamaha.github.io/git</a>
